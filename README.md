@@ -1,2 +1,2 @@
-# Discuz-Q-FE-Web
-Discuz!QPC前端源代码
+# Discuz!Q-FE
+Discuz!Q前端源代码
